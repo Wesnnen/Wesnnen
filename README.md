@@ -6,7 +6,7 @@ Sou desenvolvedor front end Angular, com experiência de 1 ano e 3 mês. Atualme
 
 Estou fazendo uma transição de carreira de rede para a área de desenvolvimento web e mobile. Sou estudante do último período de Ciência da Computação pela Unicarioca.
 
-No meu estágio, trabalhei com HTML, CSS, e JavaScript para manter um portal web com WordPress. Também projetei novas ferramentas com o Figma, como um app mobile que não foi possível concluir o desenvolvimento ( https://www.figma.com/file/lLAvyjFHLyVCotO4v9oXcP/Gob-RJ?type=design&node-id=0-1&mode=design&t=YzZ3k75LuIj0RgwM-0 ).
+No meu estágio, trabalhei com HTML, CSS, e JavaScript para manter um portal web com WordPress. Também projetei novas ferramentas com o Figma, como um app mobile que não foi possível concluir o desenvolvimento (https://www.figma.com/file/lLAvyjFHLyVCotO4v9oXcP/Gob-RJ?type=design&node-id=0-1&mode=design&t=YzZ3k75LuIj0RgwM-0).
 
 Estou sempre buscando aprender e me aperfeiçoar. Acredito que o desenvolvimento web é uma área em constante evolução e estou animado para fazer parte dela.
 
