@@ -1,7 +1,21 @@
 # Bem vindo ao meu perfil GitHub 👋:artificial_satellite:
-<p>Olá! Meu nome é <strong><em>Wesnnen Silva</em></strong> sou estudante de <strong>Ciência da Computação no sétimo período</strong> da faculdade Unicarioca, entusiasta em desenvolvimento Web/mobile em busca de novos desafios e oportunidades. Atualmente, atuo como estagiário no GOB-RJ e também trabalho como freelancer na área de <strong>Front-end usando o Framework Angular</strong>. <strong>Estou empenhado em aprimorar minhas habilidades técnicas e expandir meu conhecimento na área de desenvolvimento Web/mobile.</strong><br><br>
-<strong>Recentemente, decidi fazer uma transição de carreira,</strong> saindo do campo de redes e me dedicando ao desenvolvimento Web/mobile. Reconheci a crescente demanda por desenvolvedores e<strong> fiquei fascinado com a possibilidade de criar soluções tecnológicas e impactar positivamente a vida das pessoas</strong> por meio do desenvolvimento de software.<br><br>
-<strong>Atualmente, estou focado em aprofundar meu conhecimento em Back-end, especialmente em Python, utilizando o Framework Django. Estou matriculado no curso de Programação em Python focado em Full-stack com Django oferecido pelo Senac-RJ, onde estou aprendendo conceitos avançados e práticas recomendadas para criar aplicativos robustos e escaláveis.</strong>
+<p>
+Olá, meu nome é <strong>Wesnnen Silva</strong>!
+
+Sou desenvolvedor front end Angular, com experiência de 1 ano e 3 mês. Atualmente, estou estudando React e Django para me tornar um desenvolvedor full stack.
+
+Estou fazendo uma transição de carreira de rede para a área de desenvolvimento web e mobile. Sou estudante do último período de Ciência da Computação pela Unicarioca.
+
+No meu estágio, trabalhei com HTML, CSS, e JavaScript para manter um portal web com WordPress. Também projetei novas ferramentas com o Figma, como um app mobile que não foi possível concluir o desenvolvimento ( https://www.figma.com/file/lLAvyjFHLyVCotO4v9oXcP/Gob-RJ?type=design&node-id=0-1&mode=design&t=YzZ3k75LuIj0RgwM-0 ).
+
+Estou sempre buscando aprender e me aperfeiçoar. Acredito que o desenvolvimento web é uma área em constante evolução e estou animado para fazer parte dela.
+
+Sou apaixonado por tecnologia e acredito que ela pode ser usada para melhorar a vida das pessoas.
+
+Obrigado por visitar meu perfil!
+
+Atenciosamente,
+<strong>Wesnnen Silva</strong>
 </p>
 
 
