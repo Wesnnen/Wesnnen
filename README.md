@@ -2,7 +2,7 @@
 <p>
 Olá, meu nome é <strong>Wesnnen Silva</strong>!
 
-Sou desenvolvedor front end Angular, com experiência de 1 ano e 3 mês. Atualmente, estou estudando React e Django para me tornar um desenvolvedor full stack.
+Sou desenvolvedor front end Angular, com experiência de 1 ano e 3 meses. Atualmente, estou estudando React e Django para me tornar um desenvolvedor full stack.
 
 Estou fazendo uma transição de carreira de rede para a área de desenvolvimento web e mobile. Sou estudante do último período de Ciência da Computação pela Unicarioca.
 
