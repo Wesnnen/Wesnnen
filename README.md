@@ -1,21 +1,27 @@
 # Bem vindo ao meu perfil GitHub 👋:artificial_satellite:
 <p>
-Olá, meu nome é <strong>Wesnnen Silva</strong>!
+Atuando no desenvolvimento web Full stack (Front-end | Back-end ) a 2 anos, utilizando frameworks atuais e atualizadas ( Django, AngularJS ).
 
-Sou desenvolvedor front end Angular, com experiência de 1 ano e 3 meses. Atualmente, estou estudando React e Django para me tornar um desenvolvedor full stack.
+No desenvolvimento utilizo conceitos de UX e UI designers para criar sites e aplicativos que sejam tanto funcionais quanto esteticamente agradáveis.
+Seguindo as etapas de <strong>Planejamento, Design, Desenvolvimento, Teste e Deploy.</strong>
 
-Estou fazendo uma transição de carreira de rede para a área de desenvolvimento web e mobile. Sou estudante do último período de Ciência da Computação pela Unicarioca.
+Em busca do aprendizado contínuo, procuro me manter atualizado com treinamentos, cursos, certificações, lendo artigos ou participando de webnários de empresas de desenvolvimento Web ou especialistas da área.
 
-No meu estágio, trabalhei com HTML, CSS, e JavaScript para manter um portal web com WordPress. Também projetei novas ferramentas com o Figma, como um app mobile que não foi possível concluir o desenvolvimento (https://www.figma.com/file/lLAvyjFHLyVCotO4v9oXcP/Gob-RJ?type=design&node-id=0-1&mode=design&t=YzZ3k75LuIj0RgwM-0).
+### Objetivos alcançados:      
+  Graduação em Ciência da Computação.   
+  Curso de Programação Python junto ao Senac-RJ com foco em Full Stack utilizando o Framework Django.   
+  Curso de Programador Front end junto ao Senac-sp utilizando o framework Angular.   
 
-Estou sempre buscando aprender e me aperfeiçoar. Acredito que o desenvolvimento web é uma área em constante evolução e estou animado para fazer parte dela.
+### Objetivos futuros:   
+  Java para Back End.   
+  C# .net Back End.   
+  React para Front End.   
+  Ingles avançado.   
 
-Sou apaixonado por tecnologia e acredito que ela pode ser usada para melhorar a vida das pessoas.
-
-Obrigado por visitar meu perfil!
-
-Atenciosamente,
-<strong>Wesnnen Silva</strong>
+### Conhecimentos:   
+  <strong> ☑ Ferramentas:</strong> Django, Angular, Node.JS, JavaScript, TypeScript, HTML, CSS, BootStrap, MySQL, MongoDB, Python, Jasmine, Jest, Selenium.   
+   <strong>☑ Processos:</strong> Criação de sites completos e responsivos, conceitos de UX e UI designers, Teste unitários e automatizados, criação de banco de dados relacional e não relacional.    
+  <strong> ☑ Ploticas/regulamentações:</strong> LGPD.   
 </p>
 
 
