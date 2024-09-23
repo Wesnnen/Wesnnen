@@ -1,4 +1,4 @@
-# Bem vindo ao meu perfil GitHub 👋:artificial_satellite:
+# Bem vindo ao meu perfil GitHub 👋
 <p>
 Atuando no desenvolvimento web Full stack (Front-end | Back-end ) a 2 anos, utilizando frameworks atuais e atualizadas ( Django, AngularJS ).
 
