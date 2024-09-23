@@ -11,6 +11,8 @@ Em busca do aprendizado contínuo, procuro me manter atualizado com treinamentos
   Graduação em Ciência da Computação.   
   Curso de Programação Python junto ao Senac-RJ com foco em Full Stack utilizando o Framework Django.   
   Curso de Programador Front end junto ao Senac-sp utilizando o framework Angular.   
+  Curso de Progamador C# (.net) Back end, junto ao Senac RJ.
+  Curso FullStack, junto a TipsCode utilizando o framework Reactjs.
 
 ### Objetivos futuros ano de 2024:   
   Java para Back End.   
