@@ -1,6 +1,6 @@
 # Bem vindo ao meu perfil GitHub 👋
 <p>
-Atuando no desenvolvimento web Full stack (Front-end | Back-end ) a 2 anos, utilizando frameworks atuais e atualizadas ( Django, AngularJS ).
+Atuando no desenvolvimento web Full stack (Front-end | Back-end ) a 2 anos, utilizando frameworks atuais e atualizadas ( Django, AngularJS, Reactjs, .Net ).
 
 No desenvolvimento utilizo conceitos de UX e UI designers para criar sites e aplicativos que sejam tanto funcionais quanto esteticamente agradáveis.
 Seguindo as etapas de <strong>Planejamento, Design, Desenvolvimento, Teste e Deploy.</strong>
