@@ -19,7 +19,7 @@ Em busca do aprendizado contínuo, procuro me manter atualizado com treinamentos
   Ingles avançado.   
 
 ### Conhecimentos:   
-  <strong> ☑ Ferramentas:</strong> Django, Angular, Node.JS, JavaScript, TypeScript, HTML, CSS, BootStrap, MySQL, MongoDB, Python, Jasmine, Jest, Selenium.   
+  <strong> ☑ Ferramentas:</strong> .Net, C#, Reactjs, Api, ApiRest, Django, Angular, Node.JS, JavaScript, TypeScript, HTML, CSS, BootStrap, MySQL, MongoDB, Python, Jasmine, Jest, Selenium.   
    <strong>☑ Processos:</strong> Criação de sites completos e responsivos, conceitos de UX e UI designers, Teste unitários e automatizados, criação de banco de dados relacional e não relacional.    
   <strong> ☑ Ploticas/regulamentações:</strong> LGPD.   
 </p>
