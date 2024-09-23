@@ -12,10 +12,10 @@ Em busca do aprendizado contínuo, procuro me manter atualizado com treinamentos
   Curso de Programação Python junto ao Senac-RJ com foco em Full Stack utilizando o Framework Django.   
   Curso de Programador Front end junto ao Senac-sp utilizando o framework Angular.   
 
-### Objetivos futuros:   
+### Objetivos futuros ano de 2024:   
   Java para Back End.   
-  C# .net Back End.   
-  React para Front End.   
+ :chart: C# .net Back End.   
+ :chart: React para Front End.   
   Ingles avançado.   
 
 ### Conhecimentos:   
