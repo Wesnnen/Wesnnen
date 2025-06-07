@@ -1,4 +1,4 @@
-# Bem vindo ao meu perfil GitHub 👋
+# Bem vindo 👋
 <p>
 Atuando no desenvolvimento web Full stack (Front-end | Back-end ) a 2 anos, utilizando frameworks atuais e atualizadas ( Django, AngularJS, Reactjs, .Net ).
 
@@ -14,14 +14,13 @@ Em busca do aprendizado contínuo, procuro me manter atualizado com treinamentos
   Curso de Progamador C# (.net) Back end, junto ao Senac RJ.
   Curso FullStack, junto a TipsCode utilizando o framework Reactjs.
 
-### Objetivos futuros ano de 2024:   
-  Java para Back End.   
- :chart: C# .net Back End.   
- :chart: React para Front End.   
+### Objetivos futuros ano de 2025:   
+  :chart: Java para Back End.  
+  Kotlin Multiplatform.
   Ingles avançado.   
 
 ### Conhecimentos:   
-  <strong> ☑ Ferramentas:</strong> .Net, C#, Reactjs, Api, ApiRest, Django, Angular, Node.JS, JavaScript, TypeScript, HTML, CSS, BootStrap, MySQL, MongoDB, Python, Jasmine, Jest, Selenium.   
+  <strong> ☑ Ferramentas:</strong> Java, .Net, C#, Reactjs, Api, ApiRest, Django, Angular, Node.JS, Spring Boot, JavaScript, TypeScript, HTML, CSS, BootStrap, MySQL, MongoDB, Python, Jasmine, Jest, Selenium.   
    <strong>☑ Processos:</strong> Criação de sites completos e responsivos, conceitos de UX e UI designers, Teste unitários e automatizados, criação de banco de dados relacional e não relacional.    
   <strong> ☑ Ploticas/regulamentações:</strong> LGPD.   
 </p>
@@ -35,6 +34,7 @@ Em busca do aprendizado contínuo, procuro me manter atualizado com treinamentos
 <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />&nbsp; 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />&nbsp;
 <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+<img height="32" width="32" src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" />
 
 
 ### Banco de Dados :bar_chart:
