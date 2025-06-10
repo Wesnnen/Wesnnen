@@ -17,8 +17,8 @@ Em busca do aprendizado contínuo, procuro me manter atualizado com treinamentos
 
 ### Objetivos futuros ano de 2025:   
   :chart: Java para Back End.  
-  Kotlin Multiplatform.
-  Ingles avançado.   
+   Kotlin Multiplatform.  
+   Ingles avançado.
 
 ### Conhecimentos:   
   <strong> ☑ Ferramentas:</strong> Java, .Net, C#, Reactjs, Api, ApiRest, Django, Angular, Node.JS, Spring Boot, JavaScript, TypeScript, HTML, CSS, BootStrap, MySQL, MongoDB, Python, Jasmine, Jest, Selenium.   
