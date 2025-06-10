@@ -1,6 +1,6 @@
 # Bem vindo 👋
 <p>
-Atuando no desenvolvimento web Full stack (Front-end | Back-end ) a 2 anos, utilizando frameworks atuais e atualizadas ( Django, AngularJS, Reactjs, .Net ).
+Atuando no desenvolvimento Full stack (Front-end | Back-end ) a 4 anos, utilizando frameworks atuais e atualizadas ( Django, AngularJS, Reactjs, .Net, Spring Boot).
 
 No desenvolvimento utilizo conceitos de UX e UI designers para criar sites e aplicativos que sejam tanto funcionais quanto esteticamente agradáveis.
 Seguindo as etapas de <strong>Planejamento, Design, Desenvolvimento, Teste e Deploy.</strong>
@@ -10,9 +10,10 @@ Em busca do aprendizado contínuo, procuro me manter atualizado com treinamentos
 ### Objetivos alcançados:      
   Graduação em Ciência da Computação.   
   Curso de Programação Python junto ao Senac-RJ com foco em Full Stack utilizando o Framework Django.   
-  Curso de Programador Front end junto ao Senac-sp utilizando o framework Angular.   
-  Curso de Progamador C# (.net) Back end, junto ao Senac RJ.
-  Curso FullStack, junto a TipsCode utilizando o framework Reactjs.
+  Curso de Programador Front end junto ao Senac-sp utilizando o framework Angular ( JavaScript ).   
+  Curso de Progamador C# (.net) Back end, junto ao Senac RJ. ( .NET )
+  Curso FullStack, junto a TipsCode utilizando o framework Reactjs e Node.js. (JavaScript, TypeScript )
+  Curso Hora de Codar (Matheus Battisti) - Java do básico ao avançado. (Spring Boot)
 
 ### Objetivos futuros ano de 2025:   
   :chart: Java para Back End.  
@@ -21,7 +22,7 @@ Em busca do aprendizado contínuo, procuro me manter atualizado com treinamentos
 
 ### Conhecimentos:   
   <strong> ☑ Ferramentas:</strong> Java, .Net, C#, Reactjs, Api, ApiRest, Django, Angular, Node.JS, Spring Boot, JavaScript, TypeScript, HTML, CSS, BootStrap, MySQL, MongoDB, Python, Jasmine, Jest, Selenium.   
-   <strong>☑ Processos:</strong> Criação de sites completos e responsivos, conceitos de UX e UI designers, Teste unitários e automatizados, criação de banco de dados relacional e não relacional.    
+   <strong>☑ Processos:</strong> Criação de sites complexos e responsivos, conceitos de UX e UI designers, Teste unitários e automatizados, criação de banco de dados relacional e não relacional.    
   <strong> ☑ Ploticas/regulamentações:</strong> LGPD.   
 </p>
 
